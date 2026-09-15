@@ -1,6 +1,15 @@
 <p align="center">
   <img src="./github-banner.png" alt="Vaishnavi Bhakad - MCA Data Science">
 </p>
+# 💫 About Me:
+
+Hi, I'm Vaishnavi Bhakad
+
+MCA Data Science Student | Data Analytics | SQL | Python | Power BI
+
+I’m an MCA Data Science student with a strong interest in Data Analysis, SQL, Python, Power BI, and Web Technologies.
+
+...
 
 
 
